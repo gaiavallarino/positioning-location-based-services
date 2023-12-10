@@ -1,4 +1,4 @@
-# Positioning & Location Based Services
+# Positioning & Location Based Services 🛰️🚙🗺️
 
 Welcome to the repository for my labs activities of the **Positioning and Location-Based Services** course at Politecnico! 
 
